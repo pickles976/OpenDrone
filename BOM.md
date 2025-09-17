@@ -33,11 +33,11 @@ ESC -- 35g
 
 Pod - 30g
 insert - 12g
+end cap - 17g
 
 #### Unknown
 front cap 
-end cap
 tailfin
 
-TOTAL: 585g
-REMAINING: 208g
+TOTAL: 602g
+REMAINING: 225g
