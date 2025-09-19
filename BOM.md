@@ -26,18 +26,19 @@ Wooden stake -- 4g
 Servo fairings -- 6g
 Battery -- 172g
 Motor ~ 40g
-Servo extenders
 9g Servo (4) -- 40g
 flight computer -- 15g
 ESC -- 35g
 
-Pod - 30g
+Pod - 31g
 insert - 12g
 end cap - 17g
 
 #### Unknown
 front cap 
 tailfin
+Servo extenders
 
-TOTAL: 602g
-REMAINING: 225g
+
+TOTAL: 603g
+REMAINING: 224g
