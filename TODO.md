@@ -2,15 +2,16 @@
 
 ### Boom integration
 - [ ] design foam spar holders in CAD
-- [ ] adjust tail cap opening
+- [ ] adjust tail cap opening (bring down 3.3mm)
 - [ ] design adjustable caps to hold CF rod in place
 
 ### Tailfin assembly
-- [ ] CAD tailfins
+- [x] CAD tailfins
 - [ ] CAD 3D printed part
 - [ ] print, cut, and assembly tailfin assembly
 
 ### Tailfin Servo Controls
+- [ ] write arduino code for testing servos
 - [ ] test servos
 - [ ] design servo layout in CAD
 - [ ] mount servos
