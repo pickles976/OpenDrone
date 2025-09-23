@@ -19,26 +19,32 @@ ESC
 
 ## Mass Budget
 
-#### Known
+#### Base
 Wings -- 220g
-CF rod -- 11g
-Wooden stake -- 4g
-Servo fairings -- 6g
+CF rod (2) -- 11g (2)
+Wooden stake (2) -- 2g (2)
+Servo fairings (2) -- 3g (2)
 Battery -- 172g
-Motor ~ 40g
-9g Servo (4) -- 40g
-flight computer -- 15g
-ESC -- 35g
+Motor -- 43g
+9g Servo (4) -- 10g (4)
+ESC -- 32g
+Servo extenders (2) - 10g (2)
+receiver -- 15g
+motor mount -- 7g
 
 Pod - 31g
 insert - 12g
 end cap - 17g
 
-#### Unknown
-front cap 
-tailfin
-Servo extenders
+front cap -- 
+tailfin assembly --
 
 
-TOTAL: 603g
-REMAINING: 224g
+TOTAL: 641g
+
+#### Autonomy
+flight computer -- 42g
+GNSS -- 15g
+
+TOTAL: X + 57g
+

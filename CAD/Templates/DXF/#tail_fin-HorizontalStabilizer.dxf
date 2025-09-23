@@ -23,17 +23,17 @@ $INSBASE
   9
 $EXTMIN
  10
--165
+-198
  20
--125
+-61
  30
 0
   9
 $EXTMAX
  10
-155
+198
  20
-125
+53
  30
 0
   9
@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-half-cut
+45_cut
   9
 $CELTYPE
   6
@@ -775,9 +775,9 @@ $MAXACTVP
   9
 $PINSBASE
  10
-0
+216
  20
-0
+143.5
  30
 0
   9
@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-145.1960313187214
+131.5738636363636
  22
-79.68805570312219
+69.57386363636363
  13
 0
  23
@@ -1143,9 +1143,9 @@ AcDbViewportTableRecord
  37
 0
  40
-318.7522228124888
+286.0454545454545
  41
-1.853383458646616
+1.838669950738916
  42
 50
  43
@@ -2255,15 +2255,15 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-Sketch
+45_cut
  70
     0
  62
-    7
+    5
   6
-CONTINUOUS
+DASHED2
 370
-   -3
+   40
 390
 F
   0
@@ -2277,15 +2277,15 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-half-cut
+Sketch001
  70
     0
  62
-    5
+    7
   6
-DOTTINY
+CONTINUOUS
 370
-    0
+   -3
 390
 F
   0
@@ -2721,7 +2721,7 @@ LINE
 100
 AcDbEntity
   8
-Sketch
+Sketch001
   6
 ByLayer
  62
@@ -2731,13 +2731,13 @@ ByLayer
 100
 AcDbLine
  10
--25
+-8.5
  20
--125
+53
  11
-25
+8.5
  21
--125
+53
   0
 LINE
   5
@@ -2745,7 +2745,7 @@ LINE
 100
 AcDbEntity
   8
-Sketch
+Sketch001
   6
 ByLayer
  62
@@ -2755,13 +2755,13 @@ ByLayer
 100
 AcDbLine
  10
--25
+8.5
  20
--125
+53
  11
--30
+198
  21
--125
+4
   0
 LINE
   5
@@ -2769,7 +2769,7 @@ LINE
 100
 AcDbEntity
   8
-Sketch
+Sketch001
   6
 ByLayer
  62
@@ -2779,13 +2779,13 @@ ByLayer
 100
 AcDbLine
  10
--25
+198
  20
-125
+4
  11
--30
+198
  21
-125
+-61
   0
 LINE
   5
@@ -2793,7 +2793,7 @@ LINE
 100
 AcDbEntity
   8
-Sketch
+Sketch001
   6
 ByLayer
  62
@@ -2803,13 +2803,13 @@ ByLayer
 100
 AcDbLine
  10
--30
+198
  20
-125
+-61
  11
--135
+36
  21
-125
+-61
   0
 LINE
   5
@@ -2817,7 +2817,7 @@ LINE
 100
 AcDbEntity
   8
-Sketch
+Sketch001
   6
 ByLayer
  62
@@ -2827,13 +2827,13 @@ ByLayer
 100
 AcDbLine
  10
--135
+36
  20
-125
+-61
  11
--140
+20
  21
-125
+-40
   0
 LINE
   5
@@ -2841,7 +2841,7 @@ LINE
 100
 AcDbEntity
   8
-Sketch
+Sketch001
   6
 ByLayer
  62
@@ -2851,13 +2851,13 @@ ByLayer
 100
 AcDbLine
  10
--140
+20
  20
--125
+-40
  11
--165
+-20
  21
--125
+-40
   0
 LINE
   5
@@ -2865,7 +2865,7 @@ LINE
 100
 AcDbEntity
   8
-Sketch
+Sketch001
   6
 ByLayer
  62
@@ -2875,13 +2875,13 @@ ByLayer
 100
 AcDbLine
  10
--165
+-20
  20
--125
+-40
  11
--165
+-36
  21
-125
+-61
   0
 LINE
   5
@@ -2889,7 +2889,7 @@ LINE
 100
 AcDbEntity
   8
-Sketch
+Sketch001
   6
 ByLayer
  62
@@ -2899,13 +2899,13 @@ ByLayer
 100
 AcDbLine
  10
--140
+-36
  20
-125
+-61
  11
--165
+-198
  21
-125
+-61
   0
 LINE
   5
@@ -2913,7 +2913,7 @@ LINE
 100
 AcDbEntity
   8
-Sketch
+Sketch001
   6
 ByLayer
  62
@@ -2923,13 +2923,13 @@ ByLayer
 100
 AcDbLine
  10
--135
+-198
  20
--125
+4
  11
--140
+-198
  21
--125
+-61
   0
 LINE
   5
@@ -2937,7 +2937,7 @@ LINE
 100
 AcDbEntity
   8
-Sketch
+Sketch001
   6
 ByLayer
  62
@@ -2947,13 +2947,13 @@ ByLayer
 100
 AcDbLine
  10
--30
+-198
  20
--125
+4
  11
--135
+-8.5
  21
--125
+53
   0
 LINE
   5
@@ -2961,7 +2961,7 @@ LINE
 100
 AcDbEntity
   8
-Sketch
+Sketch001
   6
 ByLayer
  62
@@ -2971,13 +2971,13 @@ ByLayer
 100
 AcDbLine
  10
--25
+-53
  20
-125
+-28
  11
-25
+-53
  21
-125
+-37
   0
 LINE
   5
@@ -2985,7 +2985,7 @@ LINE
 100
 AcDbEntity
   8
-Sketch
+Sketch001
   6
 ByLayer
  62
@@ -2995,13 +2995,13 @@ ByLayer
 100
 AcDbLine
  10
-25
+-53
  20
-125
+-37
  11
-30
+53
  21
-125
+-37
   0
 LINE
   5
@@ -3009,7 +3009,7 @@ LINE
 100
 AcDbEntity
   8
-Sketch
+Sketch001
   6
 ByLayer
  62
@@ -3019,13 +3019,13 @@ ByLayer
 100
 AcDbLine
  10
-30
+53
  20
--125
+-37
  11
-25
+53
  21
--125
+-28
   0
 LINE
   5
@@ -3033,7 +3033,7 @@ LINE
 100
 AcDbEntity
   8
-Sketch
+Sketch001
   6
 ByLayer
  62
@@ -3043,13 +3043,13 @@ ByLayer
 100
 AcDbLine
  10
-135
+53
  20
-125
+-28
  11
-30
+-53
  21
-125
+-28
   0
 LINE
   5
@@ -3057,7 +3057,7 @@ LINE
 100
 AcDbEntity
   8
-Sketch
+Sketch001
   6
 ByLayer
  62
@@ -3067,13 +3067,13 @@ ByLayer
 100
 AcDbLine
  10
-135
+-2.5
  20
-125
+43
  11
-130
+-2.5
  21
-125
+-9
   0
 LINE
   5
@@ -3081,7 +3081,7 @@ LINE
 100
 AcDbEntity
   8
-Sketch
+Sketch001
   6
 ByLayer
  62
@@ -3091,13 +3091,13 @@ ByLayer
 100
 AcDbLine
  10
-130
+-2.5
  20
--125
+-9
  11
-135
+2.5
  21
--125
+-9
   0
 LINE
   5
@@ -3105,7 +3105,7 @@ LINE
 100
 AcDbEntity
   8
-Sketch
+Sketch001
   6
 ByLayer
  62
@@ -3115,13 +3115,13 @@ ByLayer
 100
 AcDbLine
  10
-130
+2.5
  20
-125
+-9
  11
-155
+2.5
  21
-125
+43
   0
 LINE
   5
@@ -3129,7 +3129,7 @@ LINE
 100
 AcDbEntity
   8
-Sketch
+Sketch001
   6
 ByLayer
  62
@@ -3139,13 +3139,13 @@ ByLayer
 100
 AcDbLine
  10
-155
+2.5
  20
-125
+43
  11
-155
+-2.5
  21
--125
+43
   0
 LINE
   5
@@ -3153,7 +3153,7 @@ LINE
 100
 AcDbEntity
   8
-Sketch
+45_cut
   6
 ByLayer
  62
@@ -3163,229 +3163,13 @@ ByLayer
 100
 AcDbLine
  10
-155
+-198
  20
--125
- 11
-130
- 21
--125
-  0
-LINE
-  5
-63
-100
-AcDbEntity
-  8
-Sketch
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-30
- 20
--125
- 11
-135
- 21
--125
-  0
-LINE
-  5
-64
-100
-AcDbEntity
-  8
-half-cut
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
--30
- 20
--125
- 11
--30
- 21
-125
-  0
-LINE
-  5
-65
-100
-AcDbEntity
-  8
-half-cut
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
--140
- 20
-125
- 11
--140
- 21
--125
-  0
-LINE
-  5
-66
-100
-AcDbEntity
-  8
-half-cut
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
--135
- 20
--125
- 11
--135
- 21
-125
-  0
-LINE
-  5
-67
-100
-AcDbEntity
-  8
-half-cut
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
 -25
- 20
-125
  11
+198
+ 21
 -25
- 21
--125
-  0
-LINE
-  5
-68
-100
-AcDbEntity
-  8
-half-cut
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-30
- 20
-125
- 11
-30
- 21
--125
-  0
-LINE
-  5
-69
-100
-AcDbEntity
-  8
-half-cut
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-25
- 20
-125
- 11
-25
- 21
--125
-  0
-LINE
-  5
-6A
-100
-AcDbEntity
-  8
-half-cut
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-130
- 20
-125
- 11
-130
- 21
--125
-  0
-LINE
-  5
-6B
-100
-AcDbEntity
-  8
-half-cut
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-135
- 20
--125
- 11
-135
- 21
-125
   0
 ENDSEC
   0
@@ -3419,19 +3203,19 @@ AcDbDictionary
   0
 PLOTSETTINGS
   5
-6C
+63
 100
 AcDbPlotSettings
   6
-1x1
+2x1
  40
-0
+6.35
  41
-0
+4.94
  42
-0
+6.35
  43
-0
+4.94
   0
 ENDSEC
   0
