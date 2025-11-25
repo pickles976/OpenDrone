@@ -1,28 +1,20 @@
 # TODO
 
-### Assembly
-- [ ] assemble motor mount in e-payload
-- [ ] re-print and cut out pod
-- [ ] re-assemble pod and endcap
-- [ ] re-assemble boom holder
-- [ ] design adjustable caps to hold boom in place
-- [ ] Design nosecone
+1. Electronics Pod
+2. Motor Mount
+3. Servo Mount
+4. Upper attachment thing
+5. Fairings
 
-- [x] design 3D-printed tailfin assembly
-- [ ] assemble tailfins and connect to boom
-- [ ] design 3D printed servo mount
-- [ ] connect servos to control surfaces
+### CAD
+- [x] create servo mount
+- [ ] Mount motor onto metal thing
+- [ ] create Motor mount attachment
 
-### Wing Attachment
-- [ ] use rubberbands to attach wings
-- [ ] find optimal wing placement
-- [ ] cut out holes for wing attachment
-- [ ] update CAD files for POD
-- [ ] attach wings
-- [ ] find CoG
+- [ ] Make receiver slide in and out (design it separately)
 
 ### Wing Servo Controls
-- [ ] test actuation with controller
+- [x] test actuation with controller
 - [ ] update wing CAD file
     - [ ] attach fairing 14" down wing, 5mm away from leading edge
     - [ ] 7" piano wire length, 70mm actuation distance
@@ -60,3 +52,7 @@ wings need to go on before electronics payload goes in
 2. Attach wings to pod with rubber bands
 3. Connect servo cables to electronics payload
 4. Insert electronics payload
+
+
+Inspirations:
+https://www.thingiverse.com/thing:7187147
