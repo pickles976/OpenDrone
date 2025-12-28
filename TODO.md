@@ -6,12 +6,15 @@
 4. Upper attachment thing
 5. Fairings
 
+![alt text](image.png)
+![alt text](image-1.png)
+
 ### CAD
 - [x] create servo mount
-- [ ] Mount motor onto metal thing
-- [ ] create Motor mount attachment
+- [x] create Motor mount attachment
+- [ ] assemble mocked pod
 
-- [ ] Make receiver slide in and out (design it separately)
+- [ ] remove material on motor mount so cables can run more easily
 
 ### Wing Servo Controls
 - [x] test actuation with controller
