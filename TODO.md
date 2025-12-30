@@ -19,16 +19,22 @@
 
 - [x] redesign tailfin assembly. Make it 3 parts. One part should just glue to the stabilizer, and two parts to reinforce the tailfin
 
-- [ ] print e-payload
-- [ ] print tailfin assembly, print flysky mount
+- [x] print e-payload
+- [x] print tailfin assembly, print flysky mount
 
 - [ ] assemble everything
+- [ ] hook up control surfaces
+- [ ] test
 
 - [ ] design pod foam template
 - [ ] design front and rear covers
+- [ ] design battery cover
 
+- [ ] assemble and test!
 
-### Wing Servo Controls
+# PROTOTYPE COMPLETE
+
+### Template Updates
 - [x] test actuation with controller
 - [ ] update wing CAD file
     - [ ] attach fairing 14" down wing, 5mm away from leading edge
@@ -36,12 +42,6 @@
     - [ ] 10x20mm hole in the wing next to the fairing
 - [ ] is servo direction going to end up mattering? (probably, yes)
 - [ ] design left and right wing fairings differently
-
-### Testing
-- [ ] assemble entire plane
-- [ ] test RC controls
-
-## FLY IT!
 
 - [ ] update all templates with control surface locations and other things
 - [ ] combine all templates into printable pdfs
@@ -53,23 +53,25 @@
     - [ ] pod spars
     - [ ] payload insert
 
+### 3D CAD Updates
 - [ ] clean up all the CAD files
 
 - [ ] update design documents
 - [ ] add obsidian notes to design docs
+
+### Engineering Docs
 - [ ] interface control document
 - [ ] power budget
 - [ ] mass growth allowance
 - [ ] TRL assessment
 - [ ] iterate
 
-thoughts:
-wings need to go on before electronics payload goes in
-1. Run servo cables into pod from top
-2. Attach wings to pod with rubber bands
-3. Connect servo cables to electronics payload
-4. Insert electronics payload
-
 
 Inspirations:
 https://www.thingiverse.com/thing:7187147
+
+
+[Radiomaster Pocket ELRS](https://www.amazon.com/Radiomaster-Pocket-Transmitter-Lightweight-ELRS-Charcoal/dp/B0DXPLH726?crid=3GR9KEZHOGWN6&dib=eyJ2IjoiMSJ9.D84I0qCl2w0P3U-Rhg7LubUrHhJylTOGHgIdJRFBUAjMq4sAOcn_EBpp7uwI1A7daPLRm_3P5W_VixAJs4Eeqdv80f1ZQdzhcVAnQ9GUrJLPey3y3gF3pUlsgWI-8nnbkQa9dqDTryeeNtPLK4ASaVyWzhnukwpskKXI81seeYxCpDJNdCfypFGMtDd7nJrKaccR1Vs3evkogI3NfVbG3WOIxpPhm2b9uPqFlxDoNgQYIs8kSYYHSc-L7Q_eBRBsexBqzxGi33fXUjnC_lt7zbAOpYWc0KL8_nTkhvM6NaE.KgNoqswwZNoAdMw6ET5U4PobJnNtjx8OrOqxc8OVdTI&dib_tag=se&keywords=radiomaster%2Bzorro&qid=1767120830&sprefix=radiomaster%2Bzorr%2Caps%2C258&sr=8-1&th=1)
+
+[BetaFPV ELRS receiver](https://betafpv.com/products/elrs-micro-receiver?_pos=4&_sid=963b95d5a&_ss=r)
+
