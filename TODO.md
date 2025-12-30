@@ -6,15 +6,27 @@
 4. Upper attachment thing
 5. Fairings
 
-![alt text](image.png)
-![alt text](image-1.png)
-
 ### CAD
 - [x] create servo mount
 - [x] create Motor mount attachment
-- [ ] assemble mocked pod
+- [x] create servo mount v2
+- [x] design tailfin assembly
+- [x] print tailfin assembly
+- [x] rework servo mount and electronics payload to have snap-fit parts
 
-- [ ] remove material on motor mount so cables can run more easily
+- [x] re-design tailfin assembly again
+- [x] print servo mounts
+
+- [x] redesign tailfin assembly. Make it 3 parts. One part should just glue to the stabilizer, and two parts to reinforce the tailfin
+
+- [ ] print e-payload
+- [ ] print tailfin assembly, print flysky mount
+
+- [ ] assemble everything
+
+- [ ] design pod foam template
+- [ ] design front and rear covers
+
 
 ### Wing Servo Controls
 - [x] test actuation with controller
@@ -40,6 +52,8 @@
     - [ ] pod
     - [ ] pod spars
     - [ ] payload insert
+
+- [ ] clean up all the CAD files
 
 - [ ] update design documents
 - [ ] add obsidian notes to design docs

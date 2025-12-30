@@ -13,34 +13,55 @@ front cap
 end cap
 tailfin
 flight computer
-ESC
+ESC 
+
+sticky side velcro
+velcro straps
+Lighweight PLA
 
 
 
 ## Mass Budget
 
-#### Base
-Wings -- 220g
-CF rod (2) -- 11g (2)
-Wooden stake (2) -- 2g (2)
-Servo fairings (2) -- 3g (2)
-Battery -- 172g
-Motor -- 43g
-9g Servo (4) -- 10g (4)
-ESC -- 32g
-Servo extenders (2) - 10g (2)
-receiver -- 15g
-motor mount -- 7g
+#### Electronics
 
-Pod - 31g
-insert - 12g
-end cap - 17g
+| Item           | Weight per unit | Qty | Total |
+|----------------|-----------------|-----|-------|
+| Battery        | 172g            | 1   | 172g  |
+| ESC            | 32g             | 1   | 32g   |
+| Receiver       | 15g             | 1   | 15g   |
+| Motor          | 41g             | 1   | 41g   |
+| Servos         | 12g             | 4   | 48g   |
+| Servo Extender | 10g             | 2   | 20g   |
+| Straps         | ???             | ?   | ???   |
+|                |                 |     | 328g  |
 
-front cap -- 
-tailfin assembly --
+#### Aerofoils
+
+| Item             | Weight per unit | Qty | Total |
+|------------------|-----------------|-----|-------|
+| Wings            | 220g            | 1   | 220g  |
+| Carbon Fiber Rod | 11g             | 2   | 22g   |
+| Wooden Stake     | 2g              | 2   | 4g    |
+| Servo Fairings   | 3g              | 2   | 6g    |
+| Tailfin Assembly | 27g             | 1   | 27g   |
+|                  |                 |     | 279g  |
+
+#### Pod
+
+| Item                | Weight per unit | Qty | Total |
+|---------------------|-----------------|-----|-------|
+| Motor Mount         | 11g             | 1   | 11g   |
+| Electronics Payload | 56g             | 1   | 56g   |
+| M4 Screws           | 3g              | 8   | 24g   |
+| Servo Holder        | ???             | 1   | ???   |
+| Front Cap           | ???             | 1   | ???   |
+| End Cap             | ???             | 1   | ???   |
+| Body Fairing        | ???             | 1   | ???   |
+|                     |                 |     | 91g   |
 
 
-TOTAL: 641g
+TOTAL: 698g
 
 #### Autonomy
 flight computer -- 42g
