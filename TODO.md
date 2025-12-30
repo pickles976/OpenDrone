@@ -24,18 +24,24 @@
 
 - [ ] assemble everything
 - [ ] hook up control surfaces
+    - [ ] print control horns
+    - [ ] design wire guides for tailfin controls (goes over CF rod and guides the piano wires)
 - [ ] test
 
 - [ ] design pod foam template
-- [ ] design front and rear covers
-- [ ] design battery cover
+- [ ] design some kind of locking mechanism
 
 - [ ] assemble and test!
 
 # PROTOTYPE COMPLETE
 
+### Design Fairings
+- [ ] front cover
+- [ ] rear cover
+
+- [ ] cable situtation inside???
+
 ### Template Updates
-- [x] test actuation with controller
 - [ ] update wing CAD file
     - [ ] attach fairing 14" down wing, 5mm away from leading edge
     - [ ] 7" piano wire length, 70mm actuation distance
