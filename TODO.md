@@ -8,21 +8,26 @@
 
 ### CAD
 
+- [ ] add cable runs for rear elevator for tailfin adapter piece
+- [ ] re-print tailfin adapter with LW PLA
+
+- [ ] re-design control horns (surface mount instead of thru-hole)
+- [ ] redesign control surfaces on tailfin
+
 - [ ] design some kind of locking mechanism for the foa case
 - [ ] add hole to pod template for top and for receiver antenna
 
-- [ ] re-design control horns (surface mount instead of thru-hole)
-- [ ] add cable runs for rear elevator for tailfin adapter piece
+- [ ] remove all holes in pod except the first and last
+- [ ] change nut sizes in pod
+- [ ] re-print pod in LW-PLA
 
-- [ ] change motor mount cylinder to 45mm instead of 55mm and re-print with PETG
-- [ ] re-print pod in LW-PLA with M2-sized holes
-    - [ ] remove all holes except the first and last
+- [ ] design clamping tailfin holder with M2 screws/nuts and PETG
     
-- [ ] re-print tailfin holder with LW-PLA 
 - [ ] balance plane
 
+- [ ] redo control rod setup
 
-# PROTOTYPE COMPLETE
+# PROTOTYPE COMPLETE AND READY TO FLY
 
 ### Design Fairings
 - [ ] front cover
