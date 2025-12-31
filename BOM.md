@@ -72,7 +72,7 @@ Unit Cost $79.36
 
 | Item                | Weight per unit | Qty | Total |
 |---------------------|-----------------|-----|-------|
-| Motor Mount         | 11g             | 1   | 11g   |
+| Motor Mount         | 21g             | 1   | 21g   |
 | Electronics Payload | 56g             | 1   | 56g   |
 | M4 Screws           | 3g              | 8   | 24g   |
 | Servo Holder        | ???             | 1   | ???   |
@@ -82,7 +82,7 @@ Unit Cost $79.36
 |                     |                 |     | 91g   |
 
 
-TOTAL: 698g
+TOTAL: 708g
 ACTUAL MEASURED: 720g
 
 #### Autonomy
