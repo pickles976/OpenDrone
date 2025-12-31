@@ -7,31 +7,20 @@
 5. Fairings
 
 ### CAD
-- [x] create servo mount
-- [x] create Motor mount attachment
-- [x] create servo mount v2
-- [x] design tailfin assembly
-- [x] print tailfin assembly
-- [x] rework servo mount and electronics payload to have snap-fit parts
 
-- [x] re-design tailfin assembly again
-- [x] print servo mounts
+- [ ] design some kind of locking mechanism for the foa case
+- [ ] add hole to pod template for top and for receiver antenna
 
-- [x] redesign tailfin assembly. Make it 3 parts. One part should just glue to the stabilizer, and two parts to reinforce the tailfin
+- [ ] re-design control horns (surface mount instead of thru-hole)
+- [ ] add cable runs for rear elevator for tailfin adapter piece
 
-- [x] print e-payload
-- [x] print tailfin assembly, print flysky mount
+- [ ] change motor mount cylinder to 45mm instead of 55mm and re-print with PETG
+- [ ] re-print pod in LW-PLA with M2-sized holes
+    - [ ] remove all holes except the first and last
+    
+- [ ] re-print tailfin holder with LW-PLA 
+- [ ] balance plane
 
-- [ ] assemble everything
-- [ ] hook up control surfaces
-    - [ ] print control horns
-    - [ ] design wire guides for tailfin controls (goes over CF rod and guides the piano wires)
-- [ ] test
-
-- [ ] design pod foam template
-- [ ] design some kind of locking mechanism
-
-- [ ] assemble and test!
 
 # PROTOTYPE COMPLETE
 
@@ -39,7 +28,7 @@
 - [ ] front cover
 - [ ] rear cover
 
-- [ ] cable situtation inside???
+- [x] cable situtation inside???
 
 ### Template Updates
 - [ ] update wing CAD file
@@ -81,3 +70,6 @@ https://www.thingiverse.com/thing:7187147
 
 [BetaFPV ELRS receiver](https://betafpv.com/products/elrs-micro-receiver?_pos=4&_sid=963b95d5a&_ss=r)
 
+[Push Rods](https://www.amazon.com/Ltvystore-Stainless-Compatible-Airplane-Replacement/dp/B0B2LCJDPF?crid=1QPYZYM4H8W7C&dib=eyJ2IjoiMSJ9.HiuKwOGLov1ce7INB60pREA9Wo9M8MiwNoSggobBeP6Sxt0sxlkgD9n6NINkgp51DjlBSX9brRDb0vW9Y77-ZqTf2XZYqiScRVH_88-2fSjrFLmGm3cyjJaBwUvgc1ggDqtMbVq3VlX_Urx8XG5bDdPHabxJZk8eY-5NQU9Q-e3y7cCBfunj7DUj80bj-Ea5yiSFiUaBZXGbjwi-3nT9Olh-AS0meR8w_cGAw2SjOfs.xcpizIaFuyMMymEWFLLBMdqMqJL2l8y7snsJr-e0GzY&dib_tag=se&keywords=push+rods+with+nylon+tubing&qid=1767211245&sprefix=push+rods+with+nylon+rubin%2Caps%2C203&sr=8-5)
+
+[Steel wire](https://www.amazon.com/Stainless-Straight-Wire0-8-1-6mmSpring-15-7nch/dp/B0C5VTGG1S?crid=142JQ07V2LORH&dib=eyJ2IjoiMSJ9.FBSkIiZG7MxZqozr3D2z8mOKaSlYRyTujcByABZKA_bqmtb4Dit6cwkQwXMgkOkEQ2yjJGhdmpROb8DJs8b0zrWIX0QwXSuQUgzwwraF49JzIsv-1JqX4clf65l9OBs2SCGeVLiTLIorH4EMXgh2tb0PoQgvq8hRQYAACQprPmHgnHQ52g8uG6HdtgmJVDSvhqm178SI3bmT_skLpSn24p991UMI88Myoq8ul_wImDNruM6yYxUd42X4fQtZwedT_-PQDpBWbzRz8JLSu90cvL49TNVfcsP7xjYag28cMMk.S3_lXIgoS4zIp9VAzaOgiGdYHP1lzH8459G22_0bYGE&dib_tag=se&keywords=0.8mm%2Bwire&qid=1767211347&sprefix=0.8mm%2Bwir%2Caps%2C195&sr=8-7&th=1) 

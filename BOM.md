@@ -69,3 +69,29 @@ GNSS -- 15g
 
 TOTAL: X + 57g
 
+
+
+# Tools 
+x-acto knife
+cutting surface
+packing tape
+fine sharpie
+masking tape
+squishy adhesive
+velcro straps
+sticky velcro
+twist ties
+hex wrench set
+small phillips head
+hot glue gun
+3D printer (Bambu A1 recommended)
+PETG filament
+LW-PLA filament
+rubber bands
+needle-nose pliers
+scissors
+
+## Optional
+shrink-wrap
+mallet
+
