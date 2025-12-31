@@ -20,6 +20,27 @@ velcro straps
 Lighweight PLA
 
 
+## Cost
+
+| Item                      | cost         | qty for planes | cost per unit |
+|---------------------------|--------------|----------------|---------------|
+| Hook and Loop Velcro      |           13 |             16 |        0.8125 |
+| Adhesive Velcro           |           10 |            360 | 0.02777777778 |
+| M2 screws                 |           10 |             25 |           0.4 |
+| Push rods                 |           13 |             10 |           1.3 |
+| ELRS receiver             |           19 |              1 |            19 |
+| 30A ESC                   |           13 |              1 |            13 |
+| 9g servo                  |           14 |              1 |            14 |
+| 5x300mm carbon fiber rods |           10 |              5 |             2 |
+| 3D printer filament       |           50 |             20 |           2.5 |
+| 0.8mm wire                |            9 |            100 |          0.09 |
+| 20"x30" 5mm foamboard     |           54 |             18 |             3 |
+| 5200mAh 2s                |           22 |              2 |            11 |
+| 800-1400kv motor          |           12 |              1 |            12 |
+| Dowels                    |            7 |             30 |  0.2333333333 |
+
+Startup Cost: $256
+Unit Cost $79.36
 
 ## Mass Budget
 
@@ -62,14 +83,11 @@ Lighweight PLA
 
 
 TOTAL: 698g
+ACTUAL MEASURED: 720g
 
 #### Autonomy
 flight computer -- 42g
 GNSS -- 15g
-
-TOTAL: X + 57g
-
-
 
 # Tools 
 x-acto knife
@@ -78,8 +96,6 @@ packing tape
 fine sharpie
 masking tape
 squishy adhesive
-velcro straps
-sticky velcro
 twist ties
 hex wrench set
 small phillips head
