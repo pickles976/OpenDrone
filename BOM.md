@@ -75,14 +75,14 @@ Unit Cost $88
 
 | Item                | Weight per unit | Qty | Total |
 |---------------------|-----------------|-----|-------|
-| Motor Mount         | 21g             | 1   | 21g   |
+| Motor Mount         | 18g             | 1   | 18g   |
 | Electronics Payload | 56g             | 1   | 56g   |
 | M4 Screws           | 3g              | 8   | 24g   |
 | Servo Holder        | ???             | 1   | ???   |
 | Front Cap           | ???             | 1   | ???   |
 | End Cap             | ???             | 1   | ???   |
 | Body Fairing        | ???             | 1   | ???   |
-|                     |                 |     | 91g   |
+|                     |                 |     | 88g   |
 
 
 TOTAL: 708g

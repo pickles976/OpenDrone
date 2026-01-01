@@ -1,30 +1,30 @@
 # TODO
 
-1. Electronics Pod
-2. Motor Mount
-3. Servo Mount
-4. Upper attachment thing
-5. Fairings
-
 ### CAD
 
-- [ ] add cable runs for rear elevator for tailfin adapter piece
-- [ ] re-print tailfin adapter with LW PLA
 
+#### Design Improvement
+
+- [ ] print new cantilevered pod
+- [ ] what improvements can be made to cantilevered pod?
+
+- [ ] design some kind of locking mechanism for the pod case
+
+- [ ] add cable runs for rear elevator for tailfin adapter piece
 - [ ] re-design control horns (surface mount instead of thru-hole)
 - [ ] redesign control surfaces on tailfin
-
-- [ ] design some kind of locking mechanism for the foa case
 - [ ] add hole to pod template for top and for receiver antenna
-
-- [ ] remove all holes in pod except the first and last
-- [ ] change nut sizes in pod
-- [ ] re-print pod in LW-PLA
-
 - [ ] design clamping tailfin holder with M2 screws/nuts and PETG
-    
-- [ ] balance plane
+- [ ] change nut sizes in pod to M2
+- [ ] remove material from center of wings, make hole for servo cables smaller
 
+#### Re-print with new designs
+- [ ] figure out LW-PLA
+- [ ] re-print pod in LW-PLA
+- [ ] re-print tailfin adapter with LW PLA
+
+#### Redo Plane
+- [ ] remake tailfin assembly
 - [ ] redo control rod setup
 
 # PROTOTYPE COMPLETE AND READY TO FLY
@@ -33,7 +33,11 @@
 - [ ] front cover
 - [ ] rear cover
 
-- [x] cable situtation inside???
+### Make a New one and give it away
+
+Questions:
+- how long did it take to make?
+- how many materials did it require?
 
 ### Template Updates
 - [ ] update wing CAD file
@@ -78,3 +82,6 @@ https://www.thingiverse.com/thing:7187147
 [Push Rods](https://www.amazon.com/Ltvystore-Stainless-Compatible-Airplane-Replacement/dp/B0B2LCJDPF?crid=1QPYZYM4H8W7C&dib=eyJ2IjoiMSJ9.HiuKwOGLov1ce7INB60pREA9Wo9M8MiwNoSggobBeP6Sxt0sxlkgD9n6NINkgp51DjlBSX9brRDb0vW9Y77-ZqTf2XZYqiScRVH_88-2fSjrFLmGm3cyjJaBwUvgc1ggDqtMbVq3VlX_Urx8XG5bDdPHabxJZk8eY-5NQU9Q-e3y7cCBfunj7DUj80bj-Ea5yiSFiUaBZXGbjwi-3nT9Olh-AS0meR8w_cGAw2SjOfs.xcpizIaFuyMMymEWFLLBMdqMqJL2l8y7snsJr-e0GzY&dib_tag=se&keywords=push+rods+with+nylon+tubing&qid=1767211245&sprefix=push+rods+with+nylon+rubin%2Caps%2C203&sr=8-5)
 
 [Steel wire](https://www.amazon.com/Stainless-Straight-Wire0-8-1-6mmSpring-15-7nch/dp/B0C5VTGG1S?crid=142JQ07V2LORH&dib=eyJ2IjoiMSJ9.FBSkIiZG7MxZqozr3D2z8mOKaSlYRyTujcByABZKA_bqmtb4Dit6cwkQwXMgkOkEQ2yjJGhdmpROb8DJs8b0zrWIX0QwXSuQUgzwwraF49JzIsv-1JqX4clf65l9OBs2SCGeVLiTLIorH4EMXgh2tb0PoQgvq8hRQYAACQprPmHgnHQ52g8uG6HdtgmJVDSvhqm178SI3bmT_skLpSn24p991UMI88Myoq8ul_wImDNruM6yYxUd42X4fQtZwedT_-PQDpBWbzRz8JLSu90cvL49TNVfcsP7xjYag28cMMk.S3_lXIgoS4zIp9VAzaOgiGdYHP1lzH8459G22_0bYGE&dib_tag=se&keywords=0.8mm%2Bwire&qid=1767211347&sprefix=0.8mm%2Bwir%2Caps%2C195&sr=8-7&th=1) 
+
+Bambu PLA Aero
+https://us.store.bambulab.com/products/pla-aero
