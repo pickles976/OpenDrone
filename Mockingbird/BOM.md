@@ -1,24 +1,45 @@
 ## Bill of Materials
 
-20"x30" foamboard (2)
-Carbon Fiber rod (5mm diameter) (2)
-Wooden stake (5mm diameter) (2)
-Servo fairings (2)
-2S or 3S battery
-Motor
-Prop
-Servo extenders
-9g Servo (4)
-front cap
-end cap
-tailfin
-flight computer
-ESC 
+2S 2200mAh battery   (1)  
+SG09  Servo (4)  
+30A Electronic Speed Controller (1)  
+Motor (800-1400kv) (1)  
+Servo extension cables (12") (2)  
+Propeller (8x4E) (1)  
+BetaFPV ELRS Mini Receiver (1)  
 
-sticky side velcro
-velcro straps
-Lighweight PLA
+20"x30" foamboard (2)    
+Carbon Fiber rod (5mm diameter) (2)    
+Wooden Dowel (5mm diameter) (2)    
+Adhesive velcro strips (2")  
+Velcro straps (12") (2)  
+PETG filament (100g)  
+PLA or LW-PLA filament (100g)  
+Hot Glue (100g)  
 
+**Optional (for autonomy)**
+SpeedyBee F405 Wing flight computer (1)  
+Beitian BF-180GNSS module (1)
+
+# Tools 
+x-acto knife  
+cutting surface (cutting mat on flat table)  
+packing tape  
+fine sharpie  
+masking tape  
+squishy adhesive  
+twist ties  
+hex wrench set  
+small phillips head screwdriver (for servo screws)  
+hot glue gun  
+3D printer (Bambu A1 recommended)  
+rubber bands  
+needle-nose pliers  
+scissors  
+
+**Optional**  
+shrink-wrap  
+mallet  
 
 ## Cost
 
@@ -45,22 +66,22 @@ Lighweight PLA
 Startup Cost: $283
 Unit Cost $88
 
-## Mass Budget
+# Mass Budget
 
-#### Electronics
+## Electronics
 
-| Item           | Weight per unit | Qty | Total |
-|----------------|-----------------|-----|-------|
-| Battery        | 172g            | 1   | 172g  |
-| ESC            | 32g             | 1   | 32g   |
-| Receiver       | 15g             | 1   | 15g   |
-| Motor          | 41g             | 1   | 41g   |
-| Servos         | 12g             | 4   | 48g   |
-| Servo Extender | 10g             | 2   | 20g   |
-| Straps         | ???             | ?   | ???   |
-|                |                 |     | 328g  |
+| Item                | Weight per unit | Qty | Total |
+|---------------------|-----------------|-----|-------|
+| Battery             | 172g            | 1   | 172g  |
+| ESC                 | 32g             | 1   | 32g   |
+| Receiver            | 15g             | 1   | 15g   |
+| Motor               | 41g             | 1   | 41g   |
+| SG 90 Servos        | 19g             | 4   | 36g   |
+| 12" Servo Extenders | 10g             | 2   | 20g   |
+| Straps              | ???             | ?   | ???   |
+|                     |                 |     | 328g  |
 
-#### Aerofoils
+## Aerofoils
 
 | Item             | Weight per unit | Qty | Total |
 |------------------|-----------------|-----|-------|
@@ -71,7 +92,7 @@ Unit Cost $88
 | Tailfin Assembly | 27g             | 1   | 27g   |
 |                  |                 |     | 279g  |
 
-#### Pod
+## Pod
 
 | Item                | Weight per unit | Qty | Total |
 |---------------------|-----------------|-----|-------|
@@ -83,34 +104,12 @@ Unit Cost $88
 | End Cap             | ???             | 1   | ???   |
 | Body Fairing        | ???             | 1   | ???   |
 |                     |                 |     | 88g   |
+  
+TOTAL: 708g  
+ACTUAL MEASURED: 720g  
 
-
-TOTAL: 708g
-ACTUAL MEASURED: 720g
-
-#### Autonomy
+## Autonomy
 flight computer -- 42g
 GNSS -- 15g
 
-# Tools 
-x-acto knife
-cutting surface
-packing tape
-fine sharpie
-masking tape
-squishy adhesive
-twist ties
-hex wrench set
-small phillips head
-hot glue gun
-3D printer (Bambu A1 recommended)
-PETG filament
-LW-PLA filament
-rubber bands
-needle-nose pliers
-scissors
-
-## Optional
-shrink-wrap
-mallet
-
+TOTAL + Autonomy: 780g

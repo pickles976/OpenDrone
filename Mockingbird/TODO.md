@@ -2,21 +2,36 @@
 
 ### CAD
 
-
 #### Design Improvement
 
 - [ ] print new cantilevered pod
-- [ ] what improvements can be made to cantilevered pod?
+- [ ] what improvements can be made to cantilevered pod?    
+    - [ ] remove CF tube from front half
+    - [ ] remove wing mounts from front half
+    - [ ] remove dead space between CF rail and wing mount rail
+    - [ ] add support rail for the front half which can accept a receiver mount
+    - [ ] add integrated strap loop for battery mounting
+
+
+- [ ] design mount for betaFPV ELRS mini
+- [ ] design mount for ESC
+
+- [ ] design clamping tailfin holder with M2 screws/nuts and PETG
 
 - [ ] design some kind of locking mechanism for the pod case
 
-- [ ] add cable runs for rear elevator for tailfin adapter piece
 - [ ] re-design control horns (surface mount instead of thru-hole)
 - [ ] redesign control surfaces on tailfin
 - [ ] add hole to pod template for top and for receiver antenna
-- [ ] design clamping tailfin holder with M2 screws/nuts and PETG
 - [ ] change nut sizes in pod to M2
 - [ ] remove material from center of wings, make hole for servo cables smaller
+
+#### Weight savings
+- [ ] switch to M2
+- [ ] switch servos to SG90 instead of MG90S
+- [ ] print non-structural parts out of air pla
+- [ ] ELRS mini receiver
+- [ ] 2S 220mAh battery
 
 #### Re-print with new designs
 - [ ] figure out LW-PLA
