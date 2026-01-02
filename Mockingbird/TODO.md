@@ -5,13 +5,14 @@
 #### Design Improvement
 
 - [ ] print new cantilevered pod
-- [ ] what improvements can be made to cantilevered pod?    
-    - [ ] remove CF tube from front half
-    - [ ] remove wing mounts from front half
-    - [ ] remove dead space between CF rail and wing mount rail
-    - [ ] add support rail for the front half which can accept a receiver mount
-    - [ ] add integrated strap loop for battery mounting
+- [x] what improvements can be made to cantilevered pod?    
+    - [x] remove CF tube from front half
+    - [x] remove wing mounts from front half
+    - [x] remove dead space between CF rail and wing mount rail
+    - [x] add support rail for the front half which can accept a receiver mount
+    - [x] add integrated strap loop for battery mounting
 
+- [ ] update receiver mounts to fit with new electronics payload
 
 - [ ] design mount for betaFPV ELRS mini
 - [ ] design mount for ESC
@@ -41,6 +42,7 @@
 #### Redo Plane
 - [ ] remake tailfin assembly
 - [ ] redo control rod setup
+- [ ] can we fit the battery inside the body? (maybe with BetaFPV ELRS)
 
 # PROTOTYPE COMPLETE AND READY TO FLY
 
