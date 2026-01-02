@@ -4,18 +4,17 @@
 
 #### Design Improvement
 
-- [ ] print new cantilevered pod
-- [x] what improvements can be made to cantilevered pod?    
-    - [x] remove CF tube from front half
-    - [x] remove wing mounts from front half
-    - [x] remove dead space between CF rail and wing mount rail
-    - [x] add support rail for the front half which can accept a receiver mount
-    - [x] add integrated strap loop for battery mounting
+- [ ] can we redesign the pod (again) to have better geometry, and to fit the battery inside?
+- [ ] extend pod by 10mm
+- [ ] 9mm non-destructive CF rod clamp (make the gaps on the CF rod only 10mm)
+- [ ] picatinny rail-style adjustment on CF rod (no gaps on the cantilevered bit of the adapter)
+- [ ] make the starboard side wall thinner
+- [ ] subtract a little bit from the bottom of the motor mount so that the velcro doesnt prevent a snug fit
 
+- [ ] redesign wing adapter to account for pic rail thing
+- [ ] redesign tailfin adapter to go through the tailfin (sandiwch style)
 - [ ] update receiver mounts to fit with new electronics payload
-
 - [ ] design mount for betaFPV ELRS mini
-- [ ] design mount for ESC
 
 - [ ] design clamping tailfin holder with M2 screws/nuts and PETG
 
@@ -26,6 +25,8 @@
 - [ ] add hole to pod template for top and for receiver antenna
 - [ ] change nut sizes in pod to M2
 - [ ] remove material from center of wings, make hole for servo cables smaller
+
+
 
 #### Weight savings
 - [ ] switch to M2
@@ -51,6 +52,8 @@
 - [ ] rear cover
 
 ### Make a New one and give it away
+
+- [ ] design cutting jigs
 
 Questions:
 - how long did it take to make?
