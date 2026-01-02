@@ -110,13 +110,17 @@ TODO
 # TODO: 
 
 - [ ] autonomy
-    - [ ] XT60 cables
+    - [ ] IC 30 cables
     - [ ] SG09 servos
     - [ ] Fast-printing PETG
     - [ ] FPV solder practice board
     - [ ] Arms for holding boards while soldering
     - [ ] brass sponge
     - [ ] silicone mat
+    - [ ] flat plate for printing
 - [ ] fpv
     - [ ] Eachine ev800D goggles
     - [ ] EWRF TS5823 5.8GHz 40CH 600mW FPV TX and camera
+
+
+https://www.amazon.com/TMH-Adapter-Connector-Silicone-Battery/dp/B0DNT2R5JN?crid=GE1HQHI5DQ26&dib=eyJ2IjoiMSJ9.QkjUOMjxdrHe1SdKVyT4Ee5wkSv-6bxGqpwcSa5lXhc_k8Bm9mVfd2ogFp9WQCLKgAHJruZKMgIB9E644XkXOxqsSJWanjDZ-VR-T2VKuG-f5NjtEgYZ9rCTcqJJsTaGwZ8ubF6_16Mc3yHVdR4G6QPbBetahlqHHZ78SM3PxLiPR9RBbkKSQNMFKDtPSFQPUdXt3tPbOGID-eITO1aT9c6mStOGzMz6arcvToWG-cZHEC3Jc_Ymy45f1Nc114tXh1rxaIwRobLZX-54cvW5nNiOrEkqTPx0dG7hy8T-SpM.oz-steHD5VU9-ygqB1GXpYMPOJd49lmvVhHDceAMDbk&dib_tag=se&keywords=IC3%2Bconnector&qid=1767397399&sprefix=ic3%2Bconnecto%2Caps%2C156&sr=8-24&th=1

@@ -26,6 +26,10 @@
 - [ ] change nut sizes in pod to M2
 - [ ] remove material from center of wings, make hole for servo cables smaller
 
+#### LW-PLA
+
+Get LW-PLA working
+https://www.youtube.com/watch?v=Zog6N4wZybY
 
 
 #### Weight savings
