@@ -22,7 +22,7 @@ SpeedyBee F405 Wing flight computer (1)
 Beitian BF-180GNSS module (1)
 
 # Tools 
-x-acto knife  
+x-acto knife or snap-blade utility knife 
 cutting surface (cutting mat on flat table)  
 packing tape  
 fine sharpie  

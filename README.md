@@ -1,49 +1,118 @@
 # OpenDrone
 
-Open Drone is my attempt at creating a cheap, modular, easy-to-build and easy-to-fly fixed-wing FPV drone. 
+OpenDrone is my attempt at creating a cheap, modular, easy-to-build and easy-to-fly series fixed-wing FPV drones. 
 
 As a total beginner, I am learning as I go and prioritizing simplicity at every step. I try to avoid complex/skilled construction tricks.
 
-I will try to make drones in different "weight" categories, starting with the [Mockingbird](./Mockingbird/README.md).
+I am making drones in different "weight" categories, starting with the [Mockingbird](./Mockingbird/README.md).
 
-The goal is to have a collection of simple and cheap open-source drone designs with flight characteristics that make them useful tools, and not just toys. Long flight times, large payloads, modularity, and field-repairability are all design goals. The goal is to allow small groups of people to mass produce SAR drones without needing a whole lot of capital. A single maker or tinkerer with a should be able to assemble a small fleet of drones in their garage with a 3D printer, some hand tools, and [Made in China](https://evcraft.en.made-in-china.com) account.
+The goal is to have a collection of simple and cheap open-source drone designs with flight characteristics that make them useful tools, and not just toys. Long flight times, large payloads, modularity, and field-repairability are all design goals. The goal is to allow small groups of people to mass produce SAR drones without needing a whole lot of initial investment. A single maker or tinkerer should be able to assemble a small fleet of drones in their garage with a 3D printer, some hand tools, and [Made in China](https://evcraft.en.made-in-china.com) account.
 
-## Educational Resources
+## Educational Resources  
 
-### CAD Basics
+You can assemble one of these drones just by blindly following the build guide, but I also want to educate the end-user to enable them to modify and make their own drones. When I started this project, I had no knowledge of CAD, airplane design, or RC systems. I am still a novice, but I have the fundamentals down to build my own planes.
 
-TODO: 
-- FreeCAD tutorials
+This list is by no means comprehensive, it is just the resources that *I* used. Feel free to open a pull request if you have suggestions. No higher education is needed to understand anything in this guide, just basic algebra and high school physics.
 
-### Plastic Manufacturing Basics
+### CAD Basics  
 
-TODO: add basic construction concepts
+I use FreeCAD because this project should be accessible to as many people as possible. While other CAD programs are older, have more features, and are easier to use, but FOSS is under the control of the people. Not corporations or governments. For this reason, this guide is 100% FOSS.
 
-- 3D printing (speeds, walls, infill, grain, filament types)
-- Plastic part design concepts (ribs, fillets, etc)
+[MangoJelly FreeCAD Tutorials](https://www.youtube.com/playlist?list=PLWuyJLVUNtc3UYXXfSglVpfWdX31F-e5S)  
+
+The MangoJelly tutorials are incredible. He covers all of the fundamental skills needed to make parts in FreeCAD.  
+(Total time to follow along with playlist, 24-48 hrs)  
+
+[More FreeCAD Tutorials](https://youtube.com/playlist?list=PL10-2AjHWnW4To6a0luIpGCgNKQrAo04l&si=9Q5ZE8DqiylH0JF-)  
+
+Here are more tutorials, with a guide on making a Lego minifigure based off of observation and measurements. These tutorials are excellent for thinking about how to replicate parts. Some of the first parts I designed were custom Lego accessories. (Total time to follow along with playlist, 10-20 hrs)
+
+### Plastic Manufacturing Basics  
+
+#### Plastic Part Design
+
+It is easier to design good plastic parts if you understand the fundamentals of plastics and plastic design. The book [Plastic Part Design for Injection Molding (Second Edition)](https://www.amazon.com/Plastic-Part-Design-Injection-Molding/dp/1569904367) is specifically about injection molding, but concepts like wall thickness, ribs, and filleting are applicable to 3D printed part design. I would recommend using the site [Anna's Archive](https://annas-archive.org/) to find a free copy of this book. It is very dense with a lot of information, so just read the first few chapters casually to understand the basics.
+
+
+#### 3D Printing
+
+Personally I have a Bambu Labs A1 mini printer. It works extremely well out of the box with PLA and PETG filaments. For more pesky filaments like LW-PLA or TPU, you will need to play around with the settings to get things to work.
+
+[Orca Slicer](https://orca-slicer.com/) is a fork of Bambu Studio with some added features. It is what I use for slicing my prints.
+
+A video on [3D printing basics](https://www.youtube.com/watch?v=2vFdwz4U1VQ).  
+[3D printing quality guide](https://www.youtube.com/watch?v=YPAXeBuq9qU)  
+
+Here are some excellent videos on making snap-fit parts and making parts stronger:  
+[Connecting Parts](https://www.youtube.com/watch?v=djm5tCFn9S0)  
+[Part Strength](https://www.youtube.com/watch?v=Lq-SoGgKOcQ)  
 
 ### Aeronautical Engineering Basics
 
-TODO: add aerospace concepts
+#### Forces of Flight
 
-- four forces
-- center of lift
-- center of gravity
-- airfoil design
-- aspect ratio
-- wing loading
-- stability concepts (camber, dihedral, keel effect)
-- drag types
-- aerodynamic forces on control surfaces
+[A video on the Four Forces of Flight](https://www.youtube.com/watch?v=zKSNudPl9UI)  
+
+#### Lift
+
+[Principles of Flight (Lift)](https://www.youtube.com/watch?v=38X7UfPSdss)  
+[Lift and Angle of Attack](https://www.youtube.com/watch?v=40uhfWbZH6g)  
+
+#### Drag
+
+Drag is a single force with multiple components. Parasitic Drag (consisting of skin friction drag and form drag), and Lift-Induced Drag (caused by turbulent airflow in the wake of the plane).
+
+[Components of Drag](https://en.wikipedia.org/wiki/Drag_(physics))  
+[Principles of Flight (Induced Drag)](https://www.youtube.com/watch?v=ohEiPg1q0TE)  
+[Principles of Flight (Parasite Drag)](https://www.youtube.com/watch?v=V8vwyzt54_c)  
+
+#### Airfoil Design
+
+Airfoil design can get pretty complicated. I read a lot and ended up going with a simple Armin Wing, due to the fact that it would be nearly impossible for me to experimentally test a wing design without a wind tunnel or accurate cross-sectional measurements. However, wing design concepts are still good for understanding the basics of things like MAC and wing loading.
+[Wing Design basics](https://www.youtube.com/watch?v=QHNtD8ChRZU)
+
+I recommend watching these videos and building the glider from the video. Building the glider gave me a great sense of intuition for designing stable aircraft.
+[RC Plane Design Basics](https://www.youtube.com/watch?v=CXvHv2EXcF8)
+[Foamboard Glider Design](https://www.youtube.com/watch?v=YzqS_NjTxps)
+
+#### Balance and Stability
+
+[Aircraft Stability Concepts](https://www.youtube.com/watch?v=BWx8m4G0nEc)  
+[Aircraft Stability Practical](https://www.youtube.com/watch?v=2t6tT77QFW4)  
+[Flitetest, positioning the Center of Gravity](https://www.flitetest.com/articles/where-should-an-rc-airplane-center-of-gravity-be)  
 
 ### RC Basics
-- Flitetest videos
 
-https://www.flitetest.com/articles/where-should-an-rc-airplane-center-of-gravity-be
 
-TODO: add RC concepts
+[Express LRS](https://www.youtube.com/watch?v=N0ajKoef3qs)  
+[RC Battery Basics](https://www.youtube.com/watch?v=D98e2lRe2O8)   
+[Safe Battery Charging](https://www.youtube.com/watch?v=MeAlEUb_vgg)
+[Brushless DC Motors Explained](https://www.youtube.com/watch?v=yiD5nCfmbV0)  
+[Servos](https://www.youtube.com/watch?v=tHOH-bYjR4k)  
+[Joshua Bardwell Soldering](https://www.youtube.com/watch?v=GoPT69y98pY)  
+[MuteFPV Soldering](https://www.youtube.com/watch?v=czXJevPWIsA)  
+[SpeedyBee F405 wing setup](https://www.youtube.com/watch?v=LW57cibsMxY)  
 
-- receivers and transmitters
-- servos and PWM
-- BLDC motors
-- batteries
+[Flite Test Tutorial Series](https://youtube.com/playlist?list=PL6IuSFWz4ktvupu_gxw1vn-sjBGOkJFHV&si=_ucsjRaIemd7ZCSS) 
+
+### Autonomy
+
+TODO
+
+### FPV
+
+TODO
+
+# TODO: 
+
+- [ ] autonomy
+    - [ ] XT60 cables
+    - [ ] SG09 servos
+    - [ ] Fast-printing PETG
+    - [ ] FPV solder practice board
+    - [ ] Arms for holding boards while soldering
+    - [ ] brass sponge
+    - [ ] silicone mat
+- [ ] fpv
+    - [ ] Eachine ev800D goggles
+    - [ ] EWRF TS5823 5.8GHz 40CH 600mW FPV TX and camera
