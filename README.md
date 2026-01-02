@@ -33,6 +33,8 @@ Here are more tutorials, with a guide on making a Lego minifigure based off of o
 
 It is easier to design good plastic parts if you understand the fundamentals of plastics and plastic design. The book [Plastic Part Design for Injection Molding (Second Edition)](https://www.amazon.com/Plastic-Part-Design-Injection-Molding/dp/1569904367) is specifically about injection molding, but concepts like wall thickness, ribs, and filleting are applicable to 3D printed part design. I would recommend using the site [Anna's Archive](https://annas-archive.org/) to find a free copy of this book. It is very dense with a lot of information, so just read the first few chapters casually to understand the basics.
 
+[Functional Design for 3D Printing](https://www.amazon.com/Functional-Design-Printing-2nd-Designing/dp/1511572027) is also a good resource.
+
 
 #### 3D Printing
 
@@ -94,6 +96,8 @@ I recommend watching these videos and building the glider from the video. Buildi
 [SpeedyBee F405 wing setup](https://www.youtube.com/watch?v=LW57cibsMxY)  
 
 [Flite Test Tutorial Series](https://youtube.com/playlist?list=PL6IuSFWz4ktvupu_gxw1vn-sjBGOkJFHV&si=_ucsjRaIemd7ZCSS) 
+
+If you want to get deeper into electronics concepts, I recommend [Practical Electronics for Inventors, Fourth Edition](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541)
 
 ### Autonomy
 
