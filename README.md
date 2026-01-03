@@ -31,7 +31,7 @@ Here are more tutorials, with a guide on making a Lego minifigure based off of o
 
 #### Plastic Part Design
 
-It is easier to design good plastic parts if you understand the fundamentals of plastics and plastic design. The book [Plastic Part Design for Injection Molding (Second Edition)](https://www.amazon.com/Plastic-Part-Design-Injection-Molding/dp/1569904367) is specifically about injection molding, but concepts like wall thickness, ribs, and filleting are applicable to 3D printed part design. I would recommend using the site [Anna's Archive](https://annas-archive.org/) to find a free copy of this book. It is very dense with a lot of information, so just read the first few chapters casually to understand the basics.
+It is easier to design good plastic parts if you understand the fundamentals of plastics and plastic design. The book [Designing Plastic Parts for Assembly](https://www.amazon.com/Designing-Plastic-Parts-Assembly-8E/dp/1569906688) is specifically about injection molding, but concepts like wall thickness, ribs, and filleting are applicable to 3D printed part design. I would recommend using the site [Anna's Archive](https://annas-archive.org/) to find a free copy of this book. It is very dense with a lot of information, so just read the first few chapters casually to understand the basics.
 
 [Functional Design for 3D Printing](https://www.amazon.com/Functional-Design-Printing-2nd-Designing/dp/1511572027) is also a good resource.
 
@@ -124,3 +124,7 @@ TODO
 
 
 https://www.amazon.com/TMH-Adapter-Connector-Silicone-Battery/dp/B0DNT2R5JN?crid=GE1HQHI5DQ26&dib=eyJ2IjoiMSJ9.QkjUOMjxdrHe1SdKVyT4Ee5wkSv-6bxGqpwcSa5lXhc_k8Bm9mVfd2ogFp9WQCLKgAHJruZKMgIB9E644XkXOxqsSJWanjDZ-VR-T2VKuG-f5NjtEgYZ9rCTcqJJsTaGwZ8ubF6_16Mc3yHVdR4G6QPbBetahlqHHZ78SM3PxLiPR9RBbkKSQNMFKDtPSFQPUdXt3tPbOGID-eITO1aT9c6mStOGzMz6arcvToWG-cZHEC3Jc_Ymy45f1Nc114tXh1rxaIwRobLZX-54cvW5nNiOrEkqTPx0dG7hy8T-SpM.oz-steHD5VU9-ygqB1GXpYMPOJd49lmvVhHDceAMDbk&dib_tag=se&keywords=IC3%2Bconnector&qid=1767397399&sprefix=ic3%2Bconnecto%2Caps%2C156&sr=8-24&th=1
+
+# Further Reading
+Aircraft Design a Conceptual Approach
+Basics of Model Aircraft Design
