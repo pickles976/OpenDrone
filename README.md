@@ -14,6 +14,22 @@ You can assemble one of these drones just by blindly following the build guide, 
 
 This list is by no means comprehensive, it is just the resources that *I* used. Feel free to open a pull request if you have suggestions. No higher education is needed to understand anything in this guide, just basic algebra and high school physics.
 
+### Legal Stuff
+
+Boring legal shit. Don't do anything illegal, please be respectful of others and their property. Don't get yourself in trouble.
+
+#### AMA
+
+The [Academy of Model Aeronautics](https://www.modelaircraft.org/) is a great resource. For about $90 a year you get $2.5M of liability insurance. Many clubs won't let you fly without a membership. They have a tool [here](https://www.modelaircraft.org/club-finder) for finding clubs and airfields near you.
+
+#### FAA
+
+The [FAA Rules](https://www.faa.gov/uas/recreational_flyers) has a lot of rules about flying drones. If you fly at a club, they will let you know all of the rules.
+
+### Learning to Fly
+
+Your local hobbyist club will hopefully be eager to teach you. I learned to fly on an HobbyZone Aeroscout in a few sessions. RealFlight is a simulator that costs about $90 and I have heard very good things about it, but have never tried it. For quad FPV, I recommend Liftoff simulator and a cheap [fpv sim controller](https://www.amazon.com/LiteRadio-Simulator-Controller-Platforms-Uncrashed-VelociDrone/dp/B0FMFCTSXV?crid=163UINBEK6QS6&dib=eyJ2IjoiMSJ9.xnhWYSquxKJj5OL3U9EsmF1q0HeqtO1HDr3DLXS6Tew3-k0hpkMFoyfnXiUqQexwXeFvDwKUMKCd358YWLLpDK4Ai9aDbBGJdtHuJPmLaaRJom3D20H7-8lsSK5iRNpl1RDoM-ruQk2_iJRAa4P1b8JcxiGrJiscxeSBFVuKiGfziRi3yADQESpsMAxyKc8V_hyhWlNSDw1Slh0AHA3R9_psteWJcnpMHg1TlBDfzRTYJQbJiY8eM4gU97aQnktUGLLYqbCfY-3ZiYayzX4UlsL0-hBjwGmbi0oddWdzAKI.j2J6rILeWqAvbk9kZLgWaOHOsAXvXN1cKWj002XkrjQ&dib_tag=se&keywords=betafpv+sim+controller&qid=1767541859&sprefix=betafpv+sim+controlle%2Caps%2C150&sr=8-6) or something like the [Radiomaster Pocket](https://www.amazon.com/Radiomaster-Pocket-Transmitter-Lightweight-ELRS-Charcoal/dp/B0DXPLH726?crid=RU2N277D3O1F&dib=eyJ2IjoiMSJ9.4IQZ2hm26cVN2f4lhVSDnH5o8VW3NRYoFH4lfSTh-BRx5w2g_HtfL_vHn27TPRWLFPsSfVtqrmwBUpiZ2BqAWAyLA4PMk8HzzfPDfVXjLC8MqPRSG3dTsG5e2pL6_KW8ms88TOWohy70KqKx1yx-hcgU63rqhtQvQCpDpZbB9oS05IBDfxJDMOL_RWxEEM-7b5r8Oq_ZtwpZa6i36gDeYwc-U7mpjoSLN9GSC-24gElkU2fbo1VaqDJJUU-CDACiXiHHoXdhf93SxOO7GzfRVPlbZvAROgaEw9SsU4V92fo.ODFQynP9_C1aGEEP5ErPtSMvKJHSH-zFDqgqDvqQUJE&dib_tag=se&keywords=radiomaster+pocket&qid=1767541896&sprefix=radiomaste%2Caps%2C179&sr=8-6) if you are willing to spend more money for a real controller.
+
 ### CAD Basics  
 
 I use FreeCAD because this project should be accessible to as many people as possible. While other CAD programs are older, have more features, and are easier to use, but FOSS is under the control of the people. Not corporations or governments. For this reason, this guide is 100% FOSS.
@@ -68,6 +84,11 @@ Drag is a single force with multiple components. Parasitic Drag (consisting of s
 [Principles of Flight (Induced Drag)](https://www.youtube.com/watch?v=ohEiPg1q0TE)  
 [Principles of Flight (Parasite Drag)](https://www.youtube.com/watch?v=V8vwyzt54_c)  
 
+#### Tools
+
+[Static Thrust Calculator](https://rcplanes.online/calc_thrust.htm)    
+[ecalc](https://www.ecalc.ch/) prop sizing, performance estimation, much more.    
+
 #### Airfoil Design
 
 Airfoil design can get pretty complicated. I read a lot and ended up going with a simple Armin Wing, due to the fact that it would be nearly impossible for me to experimentally test a wing design without a wind tunnel or accurate cross-sectional measurements. However, wing design concepts are still good for understanding the basics of things like MAC and wing loading.
@@ -118,6 +139,7 @@ TODO
     - [ ] brass sponge
     - [ ] silicone mat
     - [ ] flat plate for printing
+    - [ ] shorter servo connectors
 - [ ] fpv
     - [ ] Eachine ev800D goggles
     - [ ] EWRF TS5823 5.8GHz 40CH 600mW FPV TX and camera
