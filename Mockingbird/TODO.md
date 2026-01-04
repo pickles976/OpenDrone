@@ -1,29 +1,40 @@
 # TODO
 
-### CAD
+## CAD
 
-#### Design Improvement
+### Design Improvement
 
-- [ ] can we redesign the pod (again) to have better geometry, and to fit the battery inside?
-- [ ] extend pod by 10mm
-- [ ] 9mm non-destructive CF rod clamp (make the gaps on the CF rod only 10mm)
-- [ ] picatinny rail-style adjustment on CF rod (no gaps on the cantilevered bit of the adapter)
-- [ ] make the starboard side wall thinner
-- [ ] subtract a little bit from the bottom of the motor mount so that the velcro doesnt prevent a snug fit
+#### POD 
+- [x] can we redesign the pod (again) to have better geometry, and to fit the battery inside?
+- [x] extend pod by 10mm
+- [x] cf tube and wing mount print separately, screw into pod
+- [x] redesign wing adapter to account for pic rail thing
+- [x] make the starboard side wall thinner
 
-- [ ] redesign wing adapter to account for pic rail thing
-- [ ] redesign tailfin adapter to go through the tailfin (sandiwch style)
+- [ ] M2 screw holes in e-payload for wing mounts and CF tube
+- [ ] motor mounting holes
+- [ ] servo mounting holes
+- [ ] battery wire holes
+- [ ] inerts for snap-on fairings (top and front)
+
 - [ ] update receiver mounts to fit with new electronics payload
 - [ ] design mount for betaFPV ELRS mini
 
-- [ ] design clamping tailfin holder with M2 screws/nuts and PETG
+#### Wing Mounting
+- [ ] 9mm non-destructive CF rod clamp (make the gaps on the CF rod only 10mm)
+- [ ] picatinny rail-style adjustment on CF rod (no gaps on the cantilevered bit of the adapter)
+- [ ] snap-together wings with M2 screws
+- [ ]
 
+#### Tailfin
+- [ ] design clamping tailfin holder with M2 screws/nuts and PETG
+- [ ] re-design control horns (surface mount instead of thru-hole)
+- [ ] redesign control surfaces on tailfin (sevro horns)
+
+#### Case
 - [ ] design some kind of locking mechanism for the pod case
 
-- [ ] re-design control horns (surface mount instead of thru-hole)
-- [ ] redesign control surfaces on tailfin
-- [ ] add hole to pod template for top and for receiver antenna
-- [ ] change nut sizes in pod to M2
+#### Template Design
 - [ ] remove material from center of wings, make hole for servo cables smaller
 
 #### LW-PLA
@@ -94,6 +105,8 @@ Questions:
 - [ ] TRL assessment
 - [ ] iterate
 
+FUTURE: 
+- [ ] screw-on wings like Aeroscout?
 
 Inspirations:
 https://www.thingiverse.com/thing:7187147
