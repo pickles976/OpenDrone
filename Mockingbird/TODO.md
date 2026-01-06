@@ -5,13 +5,22 @@
 ### Design Improvement
 
 #### POD 
-- [ ] design a part to test hole sizing and print it in several orientations
+- [x] design a part to test hole sizing and print it in several orientations
 
 #### POD AGAIN
-- [ ] redesign pod with all screw-on parts
-- [ ] inerts for snap-on fairings (top and front)
+- [x] redesign pod with all screw-on parts
+- [x] motor holes
+- [x] servo holes
+- [x] negative space
+- [x] inerts for snap-on fairings (top and front)
+
+- [x] CF tube insert
+- [x] wing mount thingy
+- [x] CF rod clamp
+
 - [ ] update receiver mounts to fit with new electronics payload
 - [ ] design mount for betaFPV ELRS mini
+- [ ] wing reinforcement print for screw-on
 
 #### Wing Mounting
 - [ ] 9mm non-destructive CF rod clamp (make the gaps on the CF rod only 10mm)
