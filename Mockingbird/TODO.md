@@ -5,18 +5,11 @@
 ### Design Improvement
 
 #### POD 
-- [x] can we redesign the pod (again) to have better geometry, and to fit the battery inside?
-- [x] extend pod by 10mm
-- [x] cf tube and wing mount print separately, screw into pod
-- [x] redesign wing adapter to account for pic rail thing
-- [x] make the starboard side wall thinner
+- [ ] design a part to test hole sizing and print it in several orientations
 
-- [ ] M2 screw holes in e-payload for wing mounts and CF tube
-- [ ] motor mounting holes
-- [ ] servo mounting holes
-- [ ] battery wire holes
+#### POD AGAIN
+- [ ] redesign pod with all screw-on parts
 - [ ] inerts for snap-on fairings (top and front)
-
 - [ ] update receiver mounts to fit with new electronics payload
 - [ ] design mount for betaFPV ELRS mini
 
@@ -24,7 +17,6 @@
 - [ ] 9mm non-destructive CF rod clamp (make the gaps on the CF rod only 10mm)
 - [ ] picatinny rail-style adjustment on CF rod (no gaps on the cantilevered bit of the adapter)
 - [ ] snap-together wings with M2 screws
-- [ ]
 
 #### Tailfin
 - [ ] design clamping tailfin holder with M2 screws/nuts and PETG
