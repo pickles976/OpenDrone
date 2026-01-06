@@ -1,85 +1,61 @@
 # TODO
 
-## CAD
+- [ ] Finish 3D CAD design and printing profiles
+- [ ] Clean up and finalize templates
+- [ ] Full step-by-step assembly guide
+- [ ] Film full step-by-step guide
+
+## 3D CAD
+
+Wing screw-in hole spacing: 40mm long, 30mm wide
 
 ### Design Improvement
 
 #### POD 
-- [x] design a part to test hole sizing and print it in several orientations
+- [ ] print CF and wing supports in PETG
+- [ ] dial in print settings and layout, hole sizes in PETG
+- [ ] print pod in PETG
 
-#### POD AGAIN
-- [x] redesign pod with all screw-on parts
-- [x] motor holes
-- [x] servo holes
-- [x] negative space
-- [x] inerts for snap-on fairings (top and front)
-
-- [x] CF tube insert
-- [x] wing mount thingy
-- [x] CF rod clamp
-
-- [ ] update receiver mounts to fit with new electronics payload
-- [ ] design mount for betaFPV ELRS mini
-- [ ] wing reinforcement print for screw-on
-
-#### Wing Mounting
-- [ ] 9mm non-destructive CF rod clamp (make the gaps on the CF rod only 10mm)
-- [ ] picatinny rail-style adjustment on CF rod (no gaps on the cantilevered bit of the adapter)
-- [ ] snap-together wings with M2 screws
+- [ ] print pod in PLA
+- [ ] print motor mount in PETG
 
 #### Tailfin
 - [ ] design clamping tailfin holder with M2 screws/nuts and PETG
 - [ ] re-design control horns (surface mount instead of thru-hole)
 - [ ] redesign control surfaces on tailfin (sevro horns)
 
+#### Assembly
+- [ ] update receiver mounts to fit with new electronics payload
+- [ ] design mount for betaFPV ELRS mini
+- [ ] wing reinforcement print for screw-on
+
 #### Case
 - [ ] design some kind of locking mechanism for the pod case
-
-#### Template Design
-- [ ] remove material from center of wings, make hole for servo cables smaller
+- [ ] top case
+- [ ] bottom case
+- [ ] front case
+- [ ] rear case
 
 #### LW-PLA
+- [ ] figure out how to actually print lightweight-PLA
+- [ ] re-print pod and tailfin assembly in LW-PLA
+- [ ] re-print case in LW-PLA
 
-Get LW-PLA working
-https://www.youtube.com/watch?v=Zog6N4wZybY
-
-
-#### Weight savings
-- [ ] switch to M2
-- [ ] switch servos to SG90 instead of MG90S
-- [ ] print non-structural parts out of air pla
-- [ ] ELRS mini receiver
-- [ ] 2S 220mAh battery
-
-#### Re-print with new designs
-- [ ] figure out LW-PLA
-- [ ] re-print pod in LW-PLA
-- [ ] re-print tailfin adapter with LW PLA
-
-#### Redo Plane
+#### Remake Plane
 - [ ] remake tailfin assembly
 - [ ] redo control rod setup
-- [ ] can we fit the battery inside the body? (maybe with BetaFPV ELRS)
+- [ ] re-assemble
 
-# PROTOTYPE COMPLETE AND READY TO FLY
+## Template Design
 
-### Design Fairings
-- [ ] front cover
-- [ ] rear cover
-
-### Make a New one and give it away
-
-- [ ] design cutting jigs
-
-Questions:
-- how long did it take to make?
-- how many materials did it require?
 
 ### Template Updates
 - [ ] update wing CAD file
+    - [ ] remove material from center of wings, make hole for servo cables smaller
     - [ ] attach fairing 14" down wing, 5mm away from leading edge
     - [ ] 7" piano wire length, 70mm actuation distance
     - [ ] 10x20mm hole in the wing next to the fairing
+    - [ ] add annotations to wing drawing
 - [ ] is servo direction going to end up mattering? (probably, yes)
 - [ ] design left and right wing fairings differently
 
@@ -89,15 +65,14 @@ Questions:
     - [ ] horizontal stabilizer
     - [ ] vertical stabilizer
     - [ ] wing spars
-    - [ ] pod
-    - [ ] pod spars
-    - [ ] payload insert
 
-### 3D CAD Updates
-- [ ] clean up all the CAD files
+### Make a New one and give it away
 
-- [ ] update design documents
-- [ ] add obsidian notes to design docs
+- [ ] design cutting jigs
+
+Questions:
+- how long did it take to make?
+- how many materials did it require?
 
 ### Engineering Docs
 - [ ] interface control document

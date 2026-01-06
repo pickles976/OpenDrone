@@ -130,16 +130,16 @@ TODO
 
 # TODO: 
 
-- [ ] autonomy
-    - [ ] IC 30 cables
-    - [ ] SG09 servos
-    - [ ] Fast-printing PETG
-    - [ ] FPV solder practice board
-    - [ ] Arms for holding boards while soldering
-    - [ ] brass sponge
-    - [ ] silicone mat
-    - [ ] flat plate for printing
-    - [ ] shorter servo connectors
+- [ ] stuff $100
+    - [x] XT60 cable kit
+    - [x] SG09 servos
+    - [x] Fast-printing PETG
+    - [x] FPV solder practice board
+    - [x] Arms for holding boards while soldering
+    - [x] brass sponge
+    - [x] silicone mat
+    - [x] flat plate for printing
+    - [x] shorter servo connectors
 - [ ] fpv
     - [ ] Eachine ev800D goggles
     - [ ] EWRF TS5823 5.8GHz 40CH 600mW FPV TX and camera
