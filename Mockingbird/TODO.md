@@ -11,43 +11,26 @@ Wing screw-in hole spacing: 40mm long, 30mm wide
 
 ### Design Improvement
 
-#### POD 
-- [ ] print CF and wing supports in PETG
-- [ ] dial in print settings and layout, hole sizes in PETG
-- [ ] print pod in PETG
+**SATURDAY**
+- [x] print servo mounts
+- [ ] assemble everything
+    - [x] tailfin assembly
+    - [x] payload body
+    - [x] control rods
 
-- [ ] print pod in PLA
-- [ ] print motor mount in PETG
+**SUNDAY**
+- [ ] print wing top support thing
+- [ ] redesign it and get it working
 
-#### Tailfin
-- [ ] design clamping tailfin holder with M2 screws/nuts and PETG
-- [ ] re-design control horns (surface mount instead of thru-hole)
-- [ ] redesign control surfaces on tailfin (sevro horns)
-
-#### Assembly
-- [ ] update receiver mounts to fit with new electronics payload
-- [ ] design mount for betaFPV ELRS mini
-- [ ] wing reinforcement print for screw-on
+- [ ] figure out how to print LW-PLA successfully
 
 #### Case
 - [ ] design some kind of locking mechanism for the pod case
 - [ ] top case
 - [ ] bottom case
+
 - [ ] front case
 - [ ] rear case
-
-#### LW-PLA
-- [ ] figure out how to actually print lightweight-PLA
-- [ ] re-print pod and tailfin assembly in LW-PLA
-- [ ] re-print case in LW-PLA
-
-#### Remake Plane
-- [ ] remake tailfin assembly
-- [ ] redo control rod setup
-- [ ] re-assemble
-
-## Template Design
-
 
 ### Template Updates
 - [ ] update wing CAD file
