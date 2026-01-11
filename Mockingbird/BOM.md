@@ -113,3 +113,15 @@ flight computer -- 42g
 GNSS -- 15g
 
 TOTAL + Autonomy: 780g
+
+
+[Radiomaster Pocket ELRS](https://www.amazon.com/Radiomaster-Pocket-Transmitter-Lightweight-ELRS-Charcoal/dp/B0DXPLH726?crid=3GR9KEZHOGWN6&dib=eyJ2IjoiMSJ9.D84I0qCl2w0P3U-Rhg7LubUrHhJylTOGHgIdJRFBUAjMq4sAOcn_EBpp7uwI1A7daPLRm_3P5W_VixAJs4Eeqdv80f1ZQdzhcVAnQ9GUrJLPey3y3gF3pUlsgWI-8nnbkQa9dqDTryeeNtPLK4ASaVyWzhnukwpskKXI81seeYxCpDJNdCfypFGMtDd7nJrKaccR1Vs3evkogI3NfVbG3WOIxpPhm2b9uPqFlxDoNgQYIs8kSYYHSc-L7Q_eBRBsexBqzxGi33fXUjnC_lt7zbAOpYWc0KL8_nTkhvM6NaE.KgNoqswwZNoAdMw6ET5U4PobJnNtjx8OrOqxc8OVdTI&dib_tag=se&keywords=radiomaster%2Bzorro&qid=1767120830&sprefix=radiomaster%2Bzorr%2Caps%2C258&sr=8-1&th=1)
+
+[BetaFPV ELRS receiver](https://betafpv.com/products/elrs-micro-receiver?_pos=4&_sid=963b95d5a&_ss=r)
+
+[Push Rods](https://www.amazon.com/Ltvystore-Stainless-Compatible-Airplane-Replacement/dp/B0B2LCJDPF?crid=1QPYZYM4H8W7C&dib=eyJ2IjoiMSJ9.HiuKwOGLov1ce7INB60pREA9Wo9M8MiwNoSggobBeP6Sxt0sxlkgD9n6NINkgp51DjlBSX9brRDb0vW9Y77-ZqTf2XZYqiScRVH_88-2fSjrFLmGm3cyjJaBwUvgc1ggDqtMbVq3VlX_Urx8XG5bDdPHabxJZk8eY-5NQU9Q-e3y7cCBfunj7DUj80bj-Ea5yiSFiUaBZXGbjwi-3nT9Olh-AS0meR8w_cGAw2SjOfs.xcpizIaFuyMMymEWFLLBMdqMqJL2l8y7snsJr-e0GzY&dib_tag=se&keywords=push+rods+with+nylon+tubing&qid=1767211245&sprefix=push+rods+with+nylon+rubin%2Caps%2C203&sr=8-5)
+
+[Steel wire](https://www.amazon.com/Stainless-Straight-Wire0-8-1-6mmSpring-15-7nch/dp/B0C5VTGG1S?crid=142JQ07V2LORH&dib=eyJ2IjoiMSJ9.FBSkIiZG7MxZqozr3D2z8mOKaSlYRyTujcByABZKA_bqmtb4Dit6cwkQwXMgkOkEQ2yjJGhdmpROb8DJs8b0zrWIX0QwXSuQUgzwwraF49JzIsv-1JqX4clf65l9OBs2SCGeVLiTLIorH4EMXgh2tb0PoQgvq8hRQYAACQprPmHgnHQ52g8uG6HdtgmJVDSvhqm178SI3bmT_skLpSn24p991UMI88Myoq8ul_wImDNruM6yYxUd42X4fQtZwedT_-PQDpBWbzRz8JLSu90cvL49TNVfcsP7xjYag28cMMk.S3_lXIgoS4zIp9VAzaOgiGdYHP1lzH8459G22_0bYGE&dib_tag=se&keywords=0.8mm%2Bwire&qid=1767211347&sprefix=0.8mm%2Bwir%2Caps%2C195&sr=8-7&th=1) 
+
+Bambu PLA Aero
+https://us.store.bambulab.com/products/pla-aero
