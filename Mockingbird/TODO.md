@@ -11,16 +11,13 @@ Wing screw-in hole spacing: 40mm long, 30mm wide
 
 ### Design Improvement
 
-**SATURDAY**
-- [x] print servo mounts
-- [ ] assemble everything
-    - [x] tailfin assembly
-    - [x] payload body
-    - [x] control rods
-
 **SUNDAY**
-- [ ] print wing top support thing
-- [ ] redesign it and get it working
+- [x] print wing top support thing
+- [x] move servo down 5mm
+- [ ] redesign wing clamp and get it working
+    - [ ] figure out what angle is required
+    - [ ] print
+    - [ ] attach
 
 - [ ] figure out how to print LW-PLA successfully
 
